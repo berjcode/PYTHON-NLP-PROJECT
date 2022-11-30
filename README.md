@@ -1,10 +1,15 @@
 # PYTHON NLP PROJECT
-Turkish language processing                                                                                                                                                                                                    
- Libraires:  vltk,  kefir, trnlp,                                                                                                                                                                                                    
+Turkish Language Processing                                                                                                                                                                                                    
+ Using:
+       pip install trnlp                                                                                                                                      
+       pip install kefir                                                                                                                                       
+       pip install vngrs-nlp      
+       
+Libraries:  [vlnp]([https://www.gooogle.com](https://vnlp.readthedocs.io/en/latest/main_classes/stopword_remover.htm)) ,  kefir, trnlp,                                                                                                                                                                                                    
  
  trnlp = https://github.com/brolin59/trnlp                                                                                                    
  kefir = https://pypi.org/project/kefir/                                                                                                 
- vltk = ...                                                                                                 
+ vltk = https://vnlp.readthedocs.io/en/latest/main_classes/stopword_remover.html                                                                                             
 
 
 Making words suitable for Turkish.                                                                                                 
